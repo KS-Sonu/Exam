@@ -1,4 +1,5 @@
 # Exam
 a = 6
 b = 7 
-print(a+b)
+c=pow(6,7)
+print(c)
